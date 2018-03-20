@@ -18,4 +18,6 @@ object jssontest extends App{
   val maybeP = jsValue.extractOpt[Person]
   println(p)
   println(maybeP)
+  println(maybeP)
+  println(maybeP)
 }
